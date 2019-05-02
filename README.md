@@ -1,5 +1,7 @@
 # JavaFXSimplePaint
 
-JavaFx Application, simple paint, draw and memorize objects on canwas, with undo possibilities
+JavaFx Application, simple paint.
+Draw and memorize objects on canwas
+undo possibilities
 
 ![](paint.png)
